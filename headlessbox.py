@@ -1,4 +1,9 @@
 # PreReq for this is to add vbox commands to your path
+# at this point you have to build the VM yourself with at least one IP address
+# that the host can ssh to. Once thats been verified you can add this script to a
+# new terminal in windows terminal.
+
+
 import argparse
 import subprocess
 import os
